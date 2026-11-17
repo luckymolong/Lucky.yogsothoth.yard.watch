@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "Lucky.yogsothoth.yard.watch",
+    "restype": "quick_app",
+    "name": "犹格索托斯的庭院（完整版）",
+    "description": "你意外继承了一座背负巨债的破败古宅旅社。在这里，红心龙耶芙娜、食神霞露零、神秘学人偶小叶子与死神特莉波卡将与你同行——在克苏鲁的凝视与高利贷逼债下经营旅社，用你的每一份抉择改写 26 种截然不同的命运结局！\n\n【核心特色】\n\n1:1 原作全剧情收录：完整收录 PC 原版 354 幕剧本、全部角色个人支线、40 张精绘 CG 与 26 个官方结局，支持单句回顾与原版剧情分支选择。\n完整模拟经营系统：涵盖旅社建造（前台/宿舍/客房/幻觉泡）、山林探索（替身装备与食材伐木）、矿洞深掘（层数扫雷与遗物发现）、炼金工坊（配方合成与以太召唤）、旅社餐厅（食谱研发与夜间营业）、神谕占卜、嘉年华灵魂竞拍及地下屠宰契约。\n原汁原味 SAN 值体系：完整还原「稳定—异常—错乱—癫狂—渴望回归」五段 SAN 值机制与昼夜行动点循环，内置原版 27 篇图文玩法指南弹窗，新手也能轻松上手。\n离线双槽防损与手机互通：针对手环存储优化的双槽签名存档保护机制，支持生成分段二维码与本地文件导出，搭配电脑/手机工具页面即可免联网备份与迁移存档。\n专为手环定制的高对比 Bento 界面：纯色分块无渐变设计，兼顾 OLED 清晰度与小屏触控体验，单手即可流畅推进多周目体验。",
+    "preview": [
+      "media/preview_01_index.png",
+      "media/preview_02_story.png",
+      "media/preview_03_hotel_day.png",
+      "media/preview_04_tip_modal.png",
+      "media/preview_05_hotel_bento.png",
+      "media/preview_06_gallery.png",
+      "media/preview_07_sync.png",
+      "media/preview_08_hotel_night.png",
+      "media/preview_09_subpage.png",
+      "media/preview_10_copyright.png",
+      "media/preview_11_about.png"
+    ],
+    "icon": "media/app_icon_192.png",
+    "cover": "media/cover_banner.png",
+    "author": [
+      {
+        "name": "Lucky9077",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "个人网站",
+      "url": "https://www.luckywszl.top",
+      "icon": "code"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.1",
+      "file_name": "downloads/Lucky.yogsothoth.yard.watch.release.1.0.1.rpk",
+      "versionCode": 101
+    },
+    "xmb9p": {
+      "version": "1.0.1",
+      "file_name": "downloads/Lucky.yogsothoth.yard.watch.release.1.0.1.rpk",
+      "versionCode": 101
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
